@@ -1,7 +1,5 @@
 # Deep-Learning-Module
 
-The dataset is loaded directly from sklearn. It contains 442 samples with 10 input features and a target variable representing diabetes progression.
-
 I started by loading the dataset, checking for missing values, and scaling the features using StandardScaler.
 
 I used a histogram to check the distribution of the target variable and a correlation heatmap to understand the relationships between the features.
